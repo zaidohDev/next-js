@@ -2,5 +2,9 @@
   "editor.fontSize": 10,
   "terminal.integrated.fontSize": 10,
   "debug.console.fontSize": 10,
-  "markdown.preview.fontSize": 10
+  "markdown.preview.fontSize": 10,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+  "source.fixAll.stylelint":true  
+  }
 }
